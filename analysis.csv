@@ -1,0 +1,2 @@
+Model Name,Vocab Size,Correct Number,Wrong Number,Accuracy
+word2vec-google-news-300-details.csv,300,70,9,0.8860759493670886
