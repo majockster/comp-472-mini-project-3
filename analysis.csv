@@ -1,10 +1,2 @@
 Model Name,Vocab Size,Correct Number,Wrong Number,Accuracy
-word2vec-google-news-300-details.csv,3000000,70,9,0.8860759493670886
-Model Name,Vocab Size,Correct Number,Wrong Number,Accuracy
-glove-twitter-50-details.csv,1193514,37,41,0.47435897435897434
-Model Name,Vocab Size,Correct Number,Wrong Number,Accuracy
-glove-wiki-gigaword-50-details.csv,400000,57,23,0.7125
-Model Name,Vocab Size,Correct Number,Wrong Number,Accuracy
-glove-twitter-25-details.csv,1193514,38,40,0.48717948717948717
-Model Name,Vocab Size,Correct Number,Wrong Number,Accuracy
-glove-twitter-100-details.csv,1193514,38,40,0.48717948717948717
+word2vec-google-news-300-details.csv,1193514,9,72,0.1111111111111111

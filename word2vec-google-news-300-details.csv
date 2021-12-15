@@ -1,81 +1,139 @@
 Question,Answer,Guessed_Word,Result Label
-enormously,tremendously,tremendously,Correct
-provisions,stipulations,stipulations,Correct
-haphazardly,randomly,randomly,Correct
-prominent,conspicuous,conspicuous,Correct
-zenith,pinnacle,pinnacle,Correct
-flawed,imperfect,imperfect,Correct
-urgently,desperately,desperately,Correct
-consumed,eaten,eaten,Correct
-advent,coming,coming,Correct
-concisely,succinctly,succinctly,Correct
-salutes,greetings,ceremonies,Wrong
-solitary,alone,restless,Wrong
-hasten,accelerate,accelerate,Correct
-perseverance,endurance,generosity,Wrong
-fanciful,imaginative,imaginative,Correct
-showed,demonstrated,demonstrated,Correct
-constantly,continually,continually,Correct
-issues,subjects,subjects,Correct
-furnish,supply,impress,Wrong
-costly,expensive,expensive,Correct
-recognized,acknowledged,acknowledged,Correct
-spot,location,location,Correct
-make,earn,earn,Correct
-often,frequently,frequently,Correct
-easygoing,relaxed,relaxed,Correct
-debate,argument,argument,Correct
-narrow,thin,thin,Correct
-arranged,planned,planned,Correct
-infinite,limitless,limitless,Correct
-showy,striking,prickly,Wrong
-levied,imposed,imposed,Correct
-deftly,skillfully,skillfully,Correct
-distribute,circulate,commercialize,Wrong
-discrepancies,differences,differences,Correct
-prolific,productive,productive,Correct
-unmatched,unequaled,unequaled,Correct
-peculiarly,uniquely,uniquely,Correct
-hue,color,color,Correct
-hind,rear,rear,Correct
-highlight,accentuate,accentuate,Correct
-hastily,hurriedly,hurriedly,Correct
-temperate,mild,mild,Correct
-grin,smile,smile,Correct
-verbally,orally,orally,Correct
-physician,doctor,doctor,Correct
-essentially,basically,basically,Correct
-keen,sharp,useful,Wrong
-situated,positioned,positioned,Correct
-principal,major,major,Correct
-slowly,gradually,gradually,Correct
-built,constructed,constructed,Correct
-tasks,jobs,jobs,Correct
-unlikely,improbable,improbable,Correct
-halfheartedly,apathetically,apathetically,Correct
-annals,chronicles,chronicles,Correct
-wildly,furiously,furiously,Correct
-hailed,acclaimed,remembered,Wrong
-command,mastery,mastery,Correct
-concocted,devised,devised,Correct
-prospective,potential,potential,Correct
-generally,broadly,broadly,Correct
-sustained,prolonged,prolonged,Correct
-perilous,dangerous,dangerous,Correct
-tranquillity,peacefulness,Guess,Guess
-dissipate,disperse,disperse,Correct
-primarily,chiefly,chiefly,Correct
-colloquial,conversational,conversational,Correct
-resolved,settled,settled,Correct
-feasible,possible,possible,Correct
-expeditiously,rapidly,rapidly,Correct
-percentage,proportion,proportion,Correct
-terminated,ended,postponed,Wrong
-uniform,alike,alike,Correct
-figure,solve,solve,Correct
-sufficient,enough,enough,Correct
-fashion,manner,manner,Correct
-marketed,sold,sold,Correct
-bigger,larger,larger,Correct
-roots,origins,origins,Correct
-normally,ordinarily,ordinarily,Correct
+4,9,Guess,Guess
+a,.,o,Wrong
+b,.,e,Wrong
+c,.,	,Wrong
+d,.,a,Wrong
+c,"
+",Guess,Guess
+5,0,Guess,Guess
+a,.,r,Correct
+b,.,g,Wrong
+c,.,e,Wrong
+d,.,u,Wrong
+b,"
+",Guess,Guess
+3,9,Guess,Guess
+a,.,	,Wrong
+b,.,a,Wrong
+c,.,	,Wrong
+d,.,	,Wrong
+d,"
+",Guess,Guess
+2,.,Guess,Guess
+a,.,l,Wrong
+b,.,e,Wrong
+c,.,i,Wrong
+d,.,n,Wrong
+a,"
+",Guess,Guess
+4,3,Guess,Guess
+a,.,r,Wrong
+b,.,	,Wrong
+c,.,	,Wrong
+d,.,	,Wrong
+d,"
+",Guess,Guess
+2,0,Guess,Guess
+a,.,n,Wrong
+b,.,	,Wrong
+c,.,u,Wrong
+d,.,e,Wrong
+a,"
+",Guess,Guess
+4,4,Guess,Guess
+a,.,r,Wrong
+b,.,e,Correct
+c,.,g,Wrong
+d,.,o,Wrong
+a,"
+",Guess,Guess
+5,4,Guess,Guess
+a,.,m,Wrong
+b,.,	,Wrong
+c,.,i,Wrong
+d,.,a,Wrong
+c,"
+",Guess,Guess
+5,5,Guess,Guess
+a,.,e,Wrong
+b,.,t,Wrong
+c,.,	,Wrong
+d,.,	,Wrong
+c,"
+",Guess,Guess
+1,5,Guess,Guess
+a,.,f,Wrong
+b,.,i,Wrong
+c,.,n,Wrong
+d,.,o,Wrong
+b,"
+",Guess,Guess
+5,1,Guess,Guess
+a,.,	,Wrong
+b,.,p,Wrong
+c,.,n,Correct
+d,.,e,Wrong
+a,"
+",Guess,Guess
+6,0,Guess,Guess
+a,.,p,Wrong
+b,.,p,Wrong
+c,.,a,Wrong
+d,.,o,Correct
+c,"
+",Guess,Guess
+8,0,Guess,Guess
+a,.,h,Wrong
+b,.,o,Wrong
+c,.,t,Wrong
+d,.,o,Wrong
+b,2,e,Correct
+a,.,t,Wrong
+b,.,	,Wrong
+c,.,r,Correct
+d,.,e,Wrong
+d,"
+",Guess,Guess
+1,4,Guess,Guess
+a,.,r,Wrong
+b,.,i,Correct
+c,.,o,Wrong
+d,.,	,Wrong
+a,"
+",Guess,Guess
+4,7,Guess,Guess
+a,.,u,Wrong
+b,.,i,Wrong
+c,.,u,Wrong
+d,.,	,Wrong
+d,"
+",Guess,Guess
+2,8,Guess,Guess
+a,.,l,Wrong
+b,.,p,Correct
+c,.,	,Wrong
+d,.,	,Wrong
+a,"
+",Guess,Guess
+3,3,Guess,Guess
+a,.,i,Wrong
+b,.,i,Wrong
+c,.,r,Wrong
+d,.,e,Wrong
+b,"
+",Guess,Guess
+4,2,Guess,Guess
+a,.,	,Wrong
+b,.,	,Wrong
+c,.,	,Wrong
+d,.,n,Correct
+b,"
+",Guess,Guess
+7,1,Guess,Guess
+a,.,o,Wrong
+b,.,a,Wrong
+c,.,r,Wrong
+d,.,	,Wrong
+c,"
+",Guess,Guess
